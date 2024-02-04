@@ -1,2 +1,2 @@
 # delta-demo
-demo for new repository
+demo for new repository.
